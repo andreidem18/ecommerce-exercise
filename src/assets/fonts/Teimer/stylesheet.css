@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Teimer';
+    src: url('Teimer-Italic.eot');
+    src: local('Teimer Italic'), local('Teimer-Italic'),
+        url('Teimer-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Teimer-Italic.woff2') format('woff2'),
+        url('Teimer-Italic.woff') format('woff'),
+        url('Teimer-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('TeimerLight-Italic.eot');
+    src: local('Teimer Light Italic'), local('TeimerLight-Italic'),
+        url('TeimerLight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('TeimerLight-Italic.woff2') format('woff2'),
+        url('TeimerLight-Italic.woff') format('woff'),
+        url('TeimerLight-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('Teimer.eot');
+    src: local('Teimer'),
+        url('Teimer.eot?#iefix') format('embedded-opentype'),
+        url('Teimer.woff2') format('woff2'),
+        url('Teimer.woff') format('woff'),
+        url('Teimer.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('Teimer-Bold.eot');
+    src: local('Teimer Bold'), local('Teimer-Bold'),
+        url('Teimer-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Teimer-Bold.woff2') format('woff2'),
+        url('Teimer-Bold.woff') format('woff'),
+        url('Teimer-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('TeimerLight.eot');
+    src: local('Teimer Light'), local('TeimerLight'),
+        url('TeimerLight.eot?#iefix') format('embedded-opentype'),
+        url('TeimerLight.woff2') format('woff2'),
+        url('TeimerLight.woff') format('woff'),
+        url('TeimerLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('Teimer-BoldItalic.eot');
+    src: local('Teimer Bold Italic'), local('Teimer-BoldItalic'),
+        url('Teimer-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Teimer-BoldItalic.woff2') format('woff2'),
+        url('Teimer-BoldItalic.woff') format('woff'),
+        url('Teimer-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('TeimerSemiBold-Italic.eot');
+    src: local('Teimer SemiBold Italic'), local('TeimerSemiBold-Italic'),
+        url('TeimerSemiBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('TeimerSemiBold-Italic.woff2') format('woff2'),
+        url('TeimerSemiBold-Italic.woff') format('woff'),
+        url('TeimerSemiBold-Italic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Teimer';
+    src: url('TeimerSemiBold.eot');
+    src: local('Teimer SemiBold'), local('TeimerSemiBold'),
+        url('TeimerSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('TeimerSemiBold.woff2') format('woff2'),
+        url('TeimerSemiBold.woff') format('woff'),
+        url('TeimerSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
