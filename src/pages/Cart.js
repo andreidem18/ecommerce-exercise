@@ -45,7 +45,7 @@ const Cart = () => {
                                                     <div className="product-image">
                                                         <img src={cartItem.product.images[0].url} alt="" />
                                                     </div>
-                                                    <Link to={`shop/${cartItem.product.id}`} className='product-name'>
+                                                    <Link to={`/shop/${cartItem.product.id}`} className='product-name'>
                                                         {cartItem.product.name}
                                                     </Link>
                                                 </td>
